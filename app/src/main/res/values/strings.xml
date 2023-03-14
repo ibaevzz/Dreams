@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dreams</string>
+    <string name="new_quote">Новая цитата</string>
+    <string name="star">Добавить в избранное</string>
+    <string name="stars">Избранное</string>
+    <string name="copy_quote">Скопировать цитату</string>
+    <string name="copy_name">Скопировать имя автора</string>
+    <string name="delete">Удалить цитату</string>
+</resources>
